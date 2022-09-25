@@ -24,6 +24,7 @@
     "@screens/menu": "file:./screens/menu/",
     "@screens/post-listing": "file:./screens/post-listing/",
     "@screens/signup": "file:./screens/signup/",
+    "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
