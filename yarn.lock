@@ -1252,13 +1252,16 @@
 "@screens/create-post-1@file:./screens/create-post-1":
   version "1.0.0"
 
-"@screens/create-post@file:./screens/create-post/":
+"@screens/create-post@file:./screens/create-post":
   version "1.0.0"
 
 "@screens/direct-messages@file:./screens/direct-messages":
   version "1.0.0"
 
 "@screens/menu@file:./screens/menu":
+  version "1.0.0"
+
+"@screens/post-listing@file:./screens/post-listing/":
   version "1.0.0"
 
 "@screens/signup@file:./screens/signup":

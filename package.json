@@ -23,6 +23,7 @@
     "@screens/create-post-1": "file:./screens/create-post-1/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
     "@screens/menu": "file:./screens/menu/",
+    "@screens/post-listing": "file:./screens/post-listing/",
     "@screens/signup": "file:./screens/signup/",
     "axios": "^0.21.1",
     "react": "17.0.1",
