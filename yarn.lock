@@ -1249,7 +1249,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/direct-messages@file:./screens/direct-messages/":
+"@screens/create-post-1@file:./screens/create-post-1/":
+  version "1.0.0"
+
+"@screens/direct-messages@file:./screens/direct-messages":
   version "1.0.0"
 
 "@screens/menu@file:./screens/menu":
